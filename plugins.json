@@ -1,0 +1,567 @@
+[
+    {
+        "iconUrl": "https://play-lh.googleusercontent.com/G9s84Cm1TDnKDX2P8nipS_s60cuCnYtjBRRLespF8nivjXmbV9tF1fY37clZhXMLaA",
+        "fileHash": "sha256-5fd90f435ff4a3a5d29c08e55456790fca4e0ba0a3787f3eeee3e9e756f697ee",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta3",
+        "fileSize": 81417,
+        "status": 3,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Anime",
+            "Movies",
+            "TvSeries",
+            "Documentary"
+        ],
+        "version": 19,
+        "internalName": "BilibiliProvider",
+        "description": "Bilibili TV - International streaming platform for anime, movies, and variety shows (bilibili.tv)",
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta3/builds/BilibiliProvider.cs3",
+        "name": "BilibiliProvider"
+    },
+    {
+        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/CastleTvProvider/icon.png",
+        "fileHash": "sha256-e1a62e83371b1fe911daf2ef7b018e5e89330bdbfc4c99594a95ab2cfbb56976",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta3",
+        "fileSize": 68652,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "CNCVerse"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 24,
+        "internalName": "CastleTvProvider",
+        "description": "Castle TV Movies and Series Provider",
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta3/builds/CastleTvProvider.cs3",
+        "name": "CastleTvProvider"
+    },
+    {
+        "iconUrl": "https://modapk.world/wp-content/uploads/2025/11/Et-90x90.png",
+        "fileHash": "sha256-337261ae1b52bf9b151d728d6cf4eceaccafcb54dc92f2172b0eb7bcc10d657d",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta3",
+        "fileSize": 41323,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "CNCVerse"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 18,
+        "internalName": "CineTvProvider",
+        "description": "Clone of Cinema, Memesapp , FilmTV etc",
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta3/builds/CineTvProvider.cs3",
+        "name": "CineTvProvider"
+    },
+    {
+        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/CNC%20Verse/icon.png",
+        "fileHash": "sha256-a1aecf7d973172189bf29e6caf1f8ea0715acb732db7a713544777891a9f19db",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta3",
+        "fileSize": 72986,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 76,
+        "internalName": "CNC Verse",
+        "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta3/builds/CNC Verse.cs3",
+        "name": "CNC Verse"
+    },
+    {
+        "iconUrl": "https://cricfy.pro/wp-content/uploads/2024/11/cropped-cricfytv-2.png",
+        "fileHash": "sha256-b844ef49254b4f60482e22da438a3d80cc8ece41e622b3aaf08da3a95f5fd61a",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta3",
+        "fileSize": 89383,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 45,
+        "internalName": "CricifyProvider",
+        "description": "Watch Live sports and TV channels",
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta3/builds/CricifyProvider.cs3",
+        "name": "CricifyProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=desi-serials.to&sz=%size%",
+        "fileHash": "sha256-c98ed859cb55ff82533308c75f0aa757362a2ca6a2465a9afc6a1a7bc22f950d",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta3",
+        "fileSize": 36508,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 14,
+        "internalName": "DesiSerialsProvider",
+        "description": "Desi Serials Tv Shows Provider",
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta3/builds/DesiSerialsProvider.cs3",
+        "name": "DesiSerialsProvider"
+    },
+    {
+        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/DoFlixProvider/icon.png",
+        "fileHash": "sha256-dc115b9681001baacb9d7d2516187cec65db057ef8087a192809fa12569f7e5b",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta3",
+        "fileSize": 66411,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 19,
+        "internalName": "DoFlixProvider",
+        "description": "DoFlix Provider for Movies and TV Series",
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta3/builds/DoFlixProvider.cs3",
+        "name": "DoFlixProvider"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/master/EinthusanProvider/icon.png",
+        "fileHash": "sha256-53421a94f60303a1ba55193db24028f78d6c23b6422ff86694c63a9913556c91",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta3",
+        "fileSize": 21525,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 21,
+        "internalName": "EinthusanProvider",
+        "description": "Indian Multi-language HD Provider",
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta3/builds/EinthusanProvider.cs3",
+        "name": "EinthusanProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=goldenaudiobook.com/&sz=%size%",
+        "fileHash": "sha256-dfd3c70509163e220695f7daa5784ee585245020ce88686ff6afb7249c638a4c",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta3",
+        "fileSize": 14669,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 16,
+        "internalName": "GoldenAudiobook",
+        "description": "Audiobooks - Use Picture in Picture or VLC as external player",
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta3/builds/GoldenAudiobook.cs3",
+        "name": "GoldenAudiobook"
+    },
+    {
+        "iconUrl": "https://images.dwncdn.net/images/t_app-icon-l/p/b0c9663c-0d61-4941-b12f-91c58c06189f/1137087733/hdo-box-logo",
+        "fileHash": "sha256-dfce4a8b049677bb6795581e514dd92fccdcc0ba9215d78203c1695faf4526ed",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta3",
+        "fileSize": 29530,
+        "status": 0,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Movies",
+            "TvSeries"
+        ],
+        "version": 19,
+        "internalName": "HDOProvider",
+        "description": "HDO provider",
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta3/builds/HDOProvider.cs3",
+        "name": "HDOProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=rezka.ag&sz=%size%",
+        "fileHash": "sha256-41a5b84e01242d3a7c78d4249660f0c70fa8877c830bf2ca22ed91a4ec83133d",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta3",
+        "fileSize": 36989,
+        "status": 1,
+        "language": "ru",
+        "authors": [
+            "Hexated, NivinCNC"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 18,
+        "internalName": "HDrezkaProvider",
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta3/builds/HDrezkaProvider.cs3",
+        "name": "HDrezkaProvider"
+    },
+    {
+        "iconUrl": "https://librivox.org/wp-content/themes/librivox/images/librivox-logo.png",
+        "fileHash": "sha256-8eb74d28d274aebdfe444dbd326149d7fed2c5183440f8236d849c6b5e666710",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta3",
+        "fileSize": 12652,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "KillerDogeEmpire, NivinCNC"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 16,
+        "internalName": "LibriVoxAudiobook",
+        "description": "Audiobooks in public domain",
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta3/builds/LibriVoxAudiobook.cs3",
+        "name": "LibriVoxAudiobook"
+    },
+    {
+        "iconUrl": "https://mlsbd.co/wp-content/uploads/2020/08/MLSBD-Logo.png",
+        "fileHash": "sha256-6bcd6c407daf7f45b7f6a3fbfba779d3f014a65b6926ae661ebb63f5e036ee70",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta3",
+        "fileSize": 51619,
+        "status": 1,
+        "language": "bn",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "AnimeMovie",
+            "AsianDrama"
+        ],
+        "version": 15,
+        "internalName": "MLSBDProvider",
+        "description": "The largest movie link store in Bangladesh",
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta3/builds/MLSBDProvider.cs3",
+        "name": "MLSBDProvider"
+    },
+    {
+        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
+        "fileHash": "sha256-87a95a9677297c88984c465cffca0fab8e22cf005054f426458d9a151978c2f7",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta3",
+        "fileSize": 73595,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 27,
+        "internalName": "MovieBoxProvider",
+        "description": "Multi Language Movies and Series Provider",
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta3/builds/MovieBoxProvider.cs3",
+        "name": "MovieBoxProvider"
+    },
+    {
+        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProviderIN/icon.png",
+        "fileHash": "sha256-811d5ddc1dd23efa4c0eb75f0bf08209533e73e901d8b86ec63c7ac5d91da6c8",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta3",
+        "fileSize": 71131,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 29,
+        "internalName": "MovieBoxProviderIN",
+        "description": "Multi Language Movies and Series Provider (Local homepage based on region)",
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta3/builds/MovieBoxProviderIN.cs3",
+        "name": "MovieBoxProviderIN"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/master/MoviezwapProvider/icon.png",
+        "fileHash": "sha256-c05911cef06ba669aaa0a2a083dbcd9675dd0ae7d5f7f8b4a609a9a3848bf5a3",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta3",
+        "fileSize": 20419,
+        "status": 1,
+        "language": "te",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 15,
+        "internalName": "MoviezwapProvider",
+        "description": "Telugu Movies Provider - Moviezwap",
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta3/builds/MoviezwapProvider.cs3",
+        "name": "MoviezwapProvider"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/master/PikashowProvider/logo.png",
+        "fileHash": "sha256-7d6a33ba20b8b620d1b5fb694002c58b187f650344431738ae80d7f57709e4b4",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta3",
+        "fileSize": 63046,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 16,
+        "internalName": "PikashowProvider",
+        "description": "Stream movies and series from Pikashow",
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta3/builds/PikashowProvider.cs3",
+        "name": "PikashowProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=playztv.top&sz=%size%",
+        "fileHash": "sha256-bf7790d0aa113c2f48faf46d540bb748d88075a483000642b64cf884dbf6b94d",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta3",
+        "fileSize": 82461,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 11,
+        "internalName": "PlayZTVProvider",
+        "description": "Watch Live TV channels & sports via PlayZTV",
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta3/builds/PlayZTVProvider.cs3",
+        "name": "PlayZTVProvider"
+    },
+    {
+        "iconUrl": "https://cdn.mytuner.mobi/static/ctr/icons/App_192x192/in.png",
+        "fileHash": "sha256-031f50af565796faa0e121762576e3e7a46bcb2e1b70980825b686898b64d8f2",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta3",
+        "fileSize": 13668,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 16,
+        "internalName": "RadioIndiaProvider",
+        "description": "Radio India Provider",
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta3/builds/RadioIndiaProvider.cs3",
+        "name": "RadioIndiaProvider"
+    },
+    {
+        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Rtally/icon.png",
+        "fileHash": "sha256-717b6e233047855c7c0649659393cb6b70069a8b5c530a2357864c2919b4cf11",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta3",
+        "fileSize": 19423,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "Redowan, NivinCNC"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "AnimeMovie",
+            "AsianDrama"
+        ],
+        "version": 31,
+        "internalName": "Rtally",
+        "description": "Movie and TV Series provider",
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta3/builds/Rtally.cs3",
+        "name": "Rtally"
+    },
+    {
+        "iconUrl": "https://appteka.store/get/a20p17EuCKFD08AaFsfH3JSJ6OU30ccp18WrKaNDze4LqOsDArhKj13-f-SjAayiWJH6P6pv9AlzhcfzEXlmRokU-I4=/726bbb91e36da425f55efce72cccb3a82df1d265.png",
+        "fileHash": "sha256-b67bfc8e4106324f0ab5b8f853899018659d15241bcb3428e140c472bdd0c738",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta3",
+        "fileSize": 95219,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 25,
+        "internalName": "SKTechProvider",
+        "description": "Watch Live sports and TV channels via SK Tech",
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta3/builds/SKTechProvider.cs3",
+        "name": "SKTechProvider"
+    },
+    {
+        "iconUrl": "https://play-lh.googleusercontent.com/7geBQBtW_yN70BU81Oi2SoZvYsj5VoYrI4FmUNdqWQlchtExJb7XE_1BQysGzgJ6mBU",
+        "fileHash": "sha256-a1badebebd63e11deab65d8ee6fa05c0d5e4f282e36a99a32829d4c50f7b0809",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta3",
+        "fileSize": 46927,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "version": 18,
+        "internalName": "StreamFlixProvider",
+        "description": "StreamFlix Multi Language Movies and Series Provider",
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta3/builds/StreamFlixProvider.cs3",
+        "name": "StreamFlixProvider"
+    },
+    {
+        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/TamilDhoolProvider/icon.png",
+        "fileHash": "sha256-70b522c3f54a0e002e993e3b8ebb83513dc1d6a1bc8004ea571eff29132e918c",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta3",
+        "fileSize": 24654,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 20,
+        "internalName": "TamilDhoolProvider",
+        "description": "Tamil Tv Serial/Shows Provider",
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta3/builds/TamilDhoolProvider.cs3",
+        "name": "TamilDhoolProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tamilian.io&sz=%size%",
+        "fileHash": "sha256-42c9945ffc325755fb835312e0f4d7d645d5c48f8e410af895de05c82e253f82",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta3",
+        "fileSize": 19803,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Movies"
+        ],
+        "version": 16,
+        "internalName": "Tamilian",
+        "description": "Movies (Tamil)",
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta3/builds/Tamilian.cs3",
+        "name": "Tamilian"
+    },
+    {
+        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/TamilUltraProvider/icon.png",
+        "fileHash": "sha256-0d28447fcb839fd834de26665dcf857f4e998a7d8ba248227982744056318787",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta3",
+        "fileSize": 16872,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 29,
+        "internalName": "TamilUltraProvider",
+        "description": "Indian Live TV Provider",
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta3/builds/TamilUltraProvider.cs3",
+        "name": "TamilUltraProvider"
+    },
+    {
+        "iconUrl": "https://editorialge.com/wp-content/uploads/2023/07/Watch32..jpg",
+        "fileHash": "sha256-4214c0282cbfbfb0a43d18dbd7e5fd9fdaec9208fce98b1ebc0244151e3799c9",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta3",
+        "fileSize": 32312,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 18,
+        "internalName": "Watch32",
+        "description": "Watch32 is a Free Movies streaming site with over 10000 movies and TV-Series.",
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta3/builds/Watch32.cs3",
+        "name": "Watch32"
+    },
+    {
+        "iconUrl": "https://play-lh.googleusercontent.com/zVq_wAus2snoO-ggyI6IomlsCzfybAozQOGYpBrv71r1--rOYOYWsr_N7DWwVp9t7ro=s248-rw",
+        "fileHash": "sha256-8357701ae3598923c9d7ba06f23c9764670f06a7181ead421702f998c996c8b4",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta3",
+        "fileSize": 44972,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime"
+        ],
+        "version": 19,
+        "internalName": "XonProvider",
+        "description": "Xon Provider for Anime and Cartoons - Tamil, Hindi, Telugu, English, Japanese",
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta3/builds/XonProvider.cs3",
+        "name": "XonProvider"
+    }
+]
